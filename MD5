@@ -1,0 +1,13 @@
+4ec7235a6041408908be022ee99f5475 *DESCRIPTION
+0a45dd8121e597ceaac999efed3f399f *NAMESPACE
+0300f32858ee9a44329a30ec6b0ce8df *R/cantidades-data.R
+61d219ab7db15a6bf9292b2da2c49cf0 *R/spanish.R
+9be9fb1d950126d3b895ef9dfed2321e *R/to_number.R
+95ff097347d10d8a483b76f9f8a67f6d *README.md
+6f966dccdbb59d4679632375fd5b945c *data/cantidades.RData
+6ab113a8783997e5e3c52bbeb4b80089 *man/cantidades.Rd
+786d76a90868d611d1b4eab753527f0b *man/spanish.Rd
+4f615f68d7b3674c357cac933eeda0f9 *man/to_number.Rd
+9168980eb8dbf603dfcdb587353efa53 *tests/testthat.R
+f9191ec40f492aa27720042195a78f95 *tests/testthat/test-spanish.R
+f6646f6094986c133b8520721f33af23 *tools/readme/logo.png
