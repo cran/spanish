@@ -6,8 +6,8 @@
 \alias{spanish-package}
 \title{spanish: A package for spanish related data functions.}
 \description{
-The spanish package provides two important functions:
-to_number() and geocode_cadastral()
+The spanish package provides some functions for spanish data:
+to_number(), geocode_cadastral(), to_words()
 }
 \section{to_number()}{
 
@@ -19,13 +19,16 @@ The upper limit is up to the millions range. Cents must be removed.
 (in my TODO list to parse cents part)
 }
 
+\section{to_words()}{
+
+Translate any integer to character streing in spanish spelled quantities.
+The upper limit is up to the millions range. Cents must be removed.
+(in my TODO list to parse cents part)
+}
+
 \section{geocode_cadastral()}{
 
-Geocode by longitude and latitude from cadastral references.
+geocode by longitude and latitude from cadastral references.
 Get longitude/latitude from valid cadastral ref. or kml files from catastro.
 }
 
-\section{Warning}{
- You may be banned if many requests in short time are made
-to cadastral website. Please be warned.
-}
